@@ -1,4 +1,4 @@
 # Integration
-Trapezium, Midpoint and Simpsons rule simulations 
--to view code go to Integration/Numerical Methods (Area)/Program.cs
--to run program, clone project then open .sln file in visual studio 
+Trapezium, Midpoint and Simpsons rule simulations \n
+-to view code go to Integration/Numerical Methods (Area)/Program.cs\n
+-to run program, clone project then open code in a c# compiler 
